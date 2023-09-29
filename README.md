@@ -1,13 +1,13 @@
 <h1 align="center">
     Hello world, my name is
-    <a href="https://github.com/zhd-dm" target="_blank">
+    <a href="https://github.com/alexeyrusakov1999" target="_blank">
         Alexey
     </a> 
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 ======================================================================================================================================
 
-I'm Angular developer
+I'm <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" />Angular developer
 ---------------------
 
 * 🌍  I'm based in Moscow
