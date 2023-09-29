@@ -37,4 +37,6 @@ src="https://img.shields.io/github/followers/alexeyrusakov1999?logo=github&style
 
 <a href="http://www.github.com/alexeyrusakov1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=alexeyrusakov1999&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![codewars](https://www.codewars.com/users/alexeyrusakov1999/badges/large)](https://www.codewars.com/users/alexeyrusakov1999)
+
 <a href="https://github.com/alexeyrusakov1999" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeyrusakov1999&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
